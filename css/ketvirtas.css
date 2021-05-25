@@ -1,0 +1,30 @@
+.sestas {
+    width: 100%;
+    display: inline-block;
+}
+.sestas-left {
+    width: 20%;
+    display: inline-block;
+    float: left;
+}
+.sestas-right {
+    width: 80%;
+    display: inline-block;
+    float: right;
+  
+
+}
+/* .antras {
+    display: inline-block;
+    width: 100%;
+}
+.antras-e {
+    max-width: 80%;
+    display: inline-block;
+
+}
+.antras-d {
+    max-width: 20%;
+    display: inline-block;
+
+} */
